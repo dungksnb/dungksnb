@@ -87,47 +87,25 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=dunghenry&theme=react&border=61dafb&hide_border=true" alt="trandung2k1" />
+      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=dungksnb&theme=react&border=61dafb&hide_border=true" alt="trandung2k1" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=dunghenry&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
+      <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=dungksnb&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunghenry&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungksnb&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=dunghenry&theme=react&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=dungksnb&theme=react&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <hr>
-<h2 align="center">💖 Repositories 💖</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/dunghenry/django_api_mongodb" title="django_api_mongodb"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=django_api_mongodb&theme=radical&border_color=61dafb&border_radius=10"></a>
- <a align="right" href="https://github.com/dunghenry/vue.js" title="vue.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=vue.js&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br><br><br><br><br><br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/dunghenry/build_shop" title="build_shop"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=build_shop&theme=react&border_color=61dafb&border_radius=10"></a>
- <a align="right" href="https://github.com/dunghenry/solidity_smart_contract" title="solidity_smart_contract"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=solidity_smart_contract&theme=radical&border_color=61dafb&border_radius=10"></a>
-</div>
-<br><br><br><br><br><br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/dunghenry/.net_core_mongodb" title=".net_core_mongodb"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=.net_core_mongodb&theme=radical&border_color=61dafb&border_radius=10"></a>
- <a align="right" href="https://github.com/dunghenry/laravel_mysql" title="laravel_mysql"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=laravel_mysql&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br><br><br><br><br><br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/dunghenry/echo_mongodb" title="echo_mongodb"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=echo_mongodb&theme=react&border_color=61dafb&border_radius=10"></a>
- <a align="right" href="https://github.com/dunghenry/react_rails" title="react_rails"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=react_rails&theme=radical&border_color=61dafb&border_radius=10"></a>
-</div>
-<br><br><br><br><br><br>
 <h4 align="center">
-  <a href="https://github.com/dunghenry?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/dungksnb?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 
